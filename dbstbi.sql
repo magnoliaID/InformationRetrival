@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Mar 16, 2018 at 09:21 AM
+-- Generation Time: Mar 16, 2018 at 10:13 AM
 -- Server version: 10.1.16-MariaDB
 -- PHP Version: 7.0.9
 
@@ -689,7 +689,1323 @@ INSERT INTO `dokumen` (`dokid`, `nama_file`, `token`) VALUES
 (649, './files/UNDANGâ€“UNDANG REPUBLIK INDONESIA NOMOR 30 TAHUN 2014.pdf', '\nruang'),
 (650, './files/UNDANGâ€“UNDANG REPUBLIK INDONESIA NOMOR 30 TAHUN 2014.pdf', 'lingkup'),
 (651, './files/UNDANGâ€“UNDANG REPUBLIK INDONESIA NOMOR 30 TAHUN 2014.pdf', 'asas\n'),
-(652, './files/UNDANGâ€“UNDANG REPUBLIK INDONESIA NOMOR 30 TAHUN 2014.pdf', '\nbagian');
+(652, './files/UNDANGâ€“UNDANG REPUBLIK INDONESIA NOMOR 30 TAHUN 2014.pdf', '\nbagian'),
+(653, './files/UU-12-Tahun-2011.pdf', '	\n\r\r	\r\n\n	\n\n		\n	\n	\n		\n\n	\r	'),
+(654, './files/UU-12-Tahun-2011.pdf', '\n\n'),
+(655, './files/UU-12-Tahun-2011.pdf', '\n\n'),
+(656, './files/UU-12-Tahun-2011.pdf', '#$\Z%$&#$'),
+(657, './files/UU-12-Tahun-2011.pdf', '&\Z\r\Z'),
+(658, './files/UU-12-Tahun-2011.pdf', '\Z**\Z+\n'),
+(659, './files/UU-12-Tahun-2011.pdf', '$&$\Z++&#'),
+(660, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(661, './files/UU-12-Tahun-2011.pdf', '&*\Z&\Z\n'),
+(662, './files/UU-12-Tahun-2011.pdf', '\Z$\Z\Z'),
+(663, './files/UU-12-Tahun-2011.pdf', '$&$\Z*'),
+(664, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(665, './files/UU-12-Tahun-2011.pdf', '&$&\Z*'),
+(666, './files/UU-12-Tahun-2011.pdf', '+\n%+\Z'),
+(667, './files/UU-12-Tahun-2011.pdf', '\Z%+'),
+(668, './files/UU-12-Tahun-2011.pdf', '\Z+&'),
+(669, './files/UU-12-Tahun-2011.pdf', '$%\Z'),
+(670, './files/UU-12-Tahun-2011.pdf', '**%\n'),
+(671, './files/UU-12-Tahun-2011.pdf', '$&$\Z*'),
+(672, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(673, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(674, './files/UU-12-Tahun-2011.pdf', '$\Z\Z'),
+(675, './files/UU-12-Tahun-2011.pdf', '\Z\n&#'),
+(676, './files/UU-12-Tahun-2011.pdf', '\Z*\Z'),
+(677, './files/UU-12-Tahun-2011.pdf', '+&'),
+(678, './files/UU-12-Tahun-2011.pdf', '%\r\Z'),
+(679, './files/UU-12-Tahun-2011.pdf', '\Z*+'),
+(680, './files/UU-12-Tahun-2011.pdf', '*+&\Z\n\Z'),
+(681, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(682, './files/UU-12-Tahun-2011.pdf', '\Z*++'),
+(683, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(684, './files/UU-12-Tahun-2011.pdf', '\Z*\n'),
+(685, './files/UU-12-Tahun-2011.pdf', '$\Z0123\n'),
+(686, './files/UU-12-Tahun-2011.pdf', '#$\Z%$&\Z$'),
+(687, './files/UU-12-Tahun-2011.pdf', '&$%$'),
+(688, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(689, './files/UU-12-Tahun-2011.pdf', '+&%%*\n\n'),
+(690, './files/UU-12-Tahun-2011.pdf', '+%$+\Z'),
+(691, './files/UU-12-Tahun-2011.pdf', '+$\Z'),
+(692, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(693, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(694, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(695, './files/UU-12-Tahun-2011.pdf', '$%'),
+(696, './files/UU-12-Tahun-2011.pdf', '+%$+\Z\Z\Z'),
+(697, './files/UU-12-Tahun-2011.pdf', '\Z%$&\Z'),
+(698, './files/UU-12-Tahun-2011.pdf', '+%$+\Z\n'),
+(699, './files/UU-12-Tahun-2011.pdf', '+$\Z'),
+(700, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(701, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(702, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(703, './files/UU-12-Tahun-2011.pdf', '&*\Z&\Z'),
+(704, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(705, './files/UU-12-Tahun-2011.pdf', '+\n'),
+(706, './files/UU-12-Tahun-2011.pdf', '\Z%'),
+(707, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(708, './files/UU-12-Tahun-2011.pdf', '*%&$'),
+(709, './files/UU-12-Tahun-2011.pdf', '\Z*%\Z'),
+(710, './files/UU-12-Tahun-2011.pdf', '\Z\n\Z&%*$'),
+(711, './files/UU-12-Tahun-2011.pdf', ''),
+(712, './files/UU-12-Tahun-2011.pdf', '\Z+#\Z\Z\Z%$&\n'),
+(713, './files/UU-12-Tahun-2011.pdf', '+%$+\Z'),
+(714, './files/UU-12-Tahun-2011.pdf', '+$\Z'),
+(715, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(716, './files/UU-12-Tahun-2011.pdf', '\Z\Z3\n'),
+(717, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(718, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(719, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(720, './files/UU-12-Tahun-2011.pdf', '+'),
+(721, './files/UU-12-Tahun-2011.pdf', '$\Z1\n%\Z%\Z\n\Z%$&\Z\n+%$+\Z\n+$\Z'),
+(722, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(723, './files/UU-12-Tahun-2011.pdf', '\Z\Z\n*'),
+(724, './files/UU-12-Tahun-2011.pdf', '%+'),
+(725, './files/UU-12-Tahun-2011.pdf', '%&&$+\Z\Z'),
+(726, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(727, './files/UU-12-Tahun-2011.pdf', '%\n\Z'),
+(728, './files/UU-12-Tahun-2011.pdf', '$\Z'),
+(729, './files/UU-12-Tahun-2011.pdf', '+&\Z\Z&$%$'),
+(730, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(731, './files/UU-12-Tahun-2011.pdf', '+&%\n\Z\Z%$+\Z'),
+(732, './files/UU-12-Tahun-2011.pdf', '\Z%$&\Z'),
+(733, './files/UU-12-Tahun-2011.pdf', '+%$+\Z'),
+(734, './files/UU-12-Tahun-2011.pdf', '+$\Z'),
+(735, './files/UU-12-Tahun-2011.pdf', '\Z\n$\Z'),
+(736, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(737, './files/UU-12-Tahun-2011.pdf', '\Z&*'),
+(738, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(739, './files/UU-12-Tahun-2011.pdf', '\Z%3\n'),
+(740, './files/UU-12-Tahun-2011.pdf', '#+'),
+(741, './files/UU-12-Tahun-2011.pdf', '*+&\Z'),
+(742, './files/UU-12-Tahun-2011.pdf', '+%\Z\Z*\Z\n'),
+(743, './files/UU-12-Tahun-2011.pdf', '&*$'),
+(744, './files/UU-12-Tahun-2011.pdf', '$+$4'),
+(745, './files/UU-12-Tahun-2011.pdf', '$+$4'),
+(746, './files/UU-12-Tahun-2011.pdf', '$+$4'),
+(747, './files/UU-12-Tahun-2011.pdf', '$\n\n\Z%$&\Z'),
+(748, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(749, './files/UU-12-Tahun-2011.pdf', '\Z%\Z%\Z\n\Z%$&\Z\n\n+%$+\Z\n+$\Z'),
+(750, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(751, './files/UU-12-Tahun-2011.pdf', '\Z\Z3\n'),
+(752, './files/UU-12-Tahun-2011.pdf', '\n\Z\Z%\n\n'),
+(753, './files/UU-12-Tahun-2011.pdf', '\n\n\n'),
+(754, './files/UU-12-Tahun-2011.pdf', '\n\n\Z\Z%\n\n'),
+(755, './files/UU-12-Tahun-2011.pdf', '\n\n\n*'),
+(756, './files/UU-12-Tahun-2011.pdf', '\n*'),
+(757, './files/UU-12-Tahun-2011.pdf', '\n'),
+(758, './files/UU-12-Tahun-2011.pdf', '\Z\n\n*'),
+(759, './files/UU-12-Tahun-2011.pdf', '\n\n\Z'),
+(760, './files/UU-12-Tahun-2011.pdf', '\Z\n\n\Z'),
+(761, './files/UU-12-Tahun-2011.pdf', '\Z*+\n+'),
+(762, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(763, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(764, './files/UU-12-Tahun-2011.pdf', '$\Z0123\n\n\n\Z\Z\n+*%$'),
+(765, './files/UU-12-Tahun-2011.pdf', '$\Z+*\n	5\n	5\r	\n\r\r	\r\n'),
+(766, './files/UU-12-Tahun-2011.pdf', '\Z\n\n	\r		\n\r\r	\r\n	'),
+(767, './files/UU-12-Tahun-2011.pdf', '\n\Z%'),
+(768, './files/UU-12-Tahun-2011.pdf', '&\Z\n\n'),
+(769, './files/UU-12-Tahun-2011.pdf', '\n\n\n\n	\n\n		\n\n	\n	'),
+(770, './files/UU-12-Tahun-2011.pdf', '\n\n\r\n		\n\n*'),
+(771, './files/UU-12-Tahun-2011.pdf', '\n'),
+(772, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(773, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(774, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(775, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(776, './files/UU-12-Tahun-2011.pdf', '&*$'),
+(777, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(778, './files/UU-12-Tahun-2011.pdf', '\n\n\Z%$&\Z\n+%$+\Z\n+$\Z'),
+(779, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(780, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(781, './files/UU-12-Tahun-2011.pdf', '$%\Z\n+%$+\Z\n+$\Z'),
+(782, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(783, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(784, './files/UU-12-Tahun-2011.pdf', '\Z\n\Z'),
+(785, './files/UU-12-Tahun-2011.pdf', '+\Z'),
+(786, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(787, './files/UU-12-Tahun-2011.pdf', '$*$\Z\Z\n'),
+(788, './files/UU-12-Tahun-2011.pdf', ''),
+(789, './files/UU-12-Tahun-2011.pdf', '*\Z'),
+(790, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(791, './files/UU-12-Tahun-2011.pdf', '\Z%$'),
+(792, './files/UU-12-Tahun-2011.pdf', '\Z%'),
+(793, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(794, './files/UU-12-Tahun-2011.pdf', '\Z\n'),
+(795, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(796, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(797, './files/UU-12-Tahun-2011.pdf', '\n\n+%$+\Z\n+$\Z'),
+(798, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(799, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(800, './files/UU-12-Tahun-2011.pdf', '+%$+\Z\n%+%$'),
+(801, './files/UU-12-Tahun-2011.pdf', '\Z$%\Z'),
+(802, './files/UU-12-Tahun-2011.pdf', '+'),
+(803, './files/UU-12-Tahun-2011.pdf', '$&$'),
+(804, './files/UU-12-Tahun-2011.pdf', '\Z\Z&%\n*'),
+(805, './files/UU-12-Tahun-2011.pdf', '+$$'),
+(806, './files/UU-12-Tahun-2011.pdf', '\Z%$&%$'),
+(807, './files/UU-12-Tahun-2011.pdf', '%%'),
+(808, './files/UU-12-Tahun-2011.pdf', '&\Z'),
+(809, './files/UU-12-Tahun-2011.pdf', '\Z+%$'),
+(810, './files/UU-12-Tahun-2011.pdf', '%'),
+(811, './files/UU-12-Tahun-2011.pdf', '\Z+#\Z\Z'),
+(812, './files/UU-12-Tahun-2011.pdf', '$\n'),
+(813, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(814, './files/UU-12-Tahun-2011.pdf', '%%'),
+(815, './files/UU-12-Tahun-2011.pdf', '&\Z'),
+(816, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n\n+$\Z'),
+(817, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(818, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(819, './files/UU-12-Tahun-2011.pdf', '\n\n6'),
+(820, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(821, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(822, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n+$\Z'),
+(823, './files/UU-12-Tahun-2011.pdf', '\Z\n$\Z'),
+(824, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(825, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(826, './files/UU-12-Tahun-2011.pdf', '\Z%$&'),
+(827, './files/UU-12-Tahun-2011.pdf', '#\Z\n+#&'),
+(828, './files/UU-12-Tahun-2011.pdf', '\Z\n&'),
+(829, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(830, './files/UU-12-Tahun-2011.pdf', '+*%$'),
+(831, './files/UU-12-Tahun-2011.pdf', '$\Z+*\n+*'),
+(832, './files/UU-12-Tahun-2011.pdf', '\n\n1'),
+(833, './files/UU-12-Tahun-2011.pdf', '\n\n+%$+\Z\n+\Z%'),
+(834, './files/UU-12-Tahun-2011.pdf', '\n\Z\Z%\Z'),
+(835, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(836, './files/UU-12-Tahun-2011.pdf', '\Z\n'),
+(837, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n+$\Z'),
+(838, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(839, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(840, './files/UU-12-Tahun-2011.pdf', '\Z\n'),
+(841, './files/UU-12-Tahun-2011.pdf', '%%'),
+(842, './files/UU-12-Tahun-2011.pdf', '&\Z'),
+(843, './files/UU-12-Tahun-2011.pdf', '\n+*'),
+(844, './files/UU-12-Tahun-2011.pdf', '&\Z%\Z\n\Z\n'),
+(845, './files/UU-12-Tahun-2011.pdf', '\Z&*'),
+(846, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z'),
+(847, './files/UU-12-Tahun-2011.pdf', '\n\n6\n'),
+(848, './files/UU-12-Tahun-2011.pdf', '\n\n2'),
+(849, './files/UU-12-Tahun-2011.pdf', '\n\n+%$+\Z\n+\Z%'),
+(850, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n+$\Z'),
+(851, './files/UU-12-Tahun-2011.pdf', '\Z\n$\Z'),
+(852, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(853, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(854, './files/UU-12-Tahun-2011.pdf', '%%'),
+(855, './files/UU-12-Tahun-2011.pdf', '&\Z'),
+(856, './files/UU-12-Tahun-2011.pdf', '\n+*'),
+(857, './files/UU-12-Tahun-2011.pdf', '\Z$\Z%$&\n\Z'),
+(858, './files/UU-12-Tahun-2011.pdf', '\Z&\Z\Z'),
+(859, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(860, './files/UU-12-Tahun-2011.pdf', '\Z*\Z*%\Z'),
+(861, './files/UU-12-Tahun-2011.pdf', '\n\n7'),
+(862, './files/UU-12-Tahun-2011.pdf', '\n\n+%$+\Z\n+*'),
+(863, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(864, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n+$\Z'),
+(865, './files/UU-12-Tahun-2011.pdf', '\Z\n$\Z'),
+(866, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(867, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(868, './files/UU-12-Tahun-2011.pdf', '%%'),
+(869, './files/UU-12-Tahun-2011.pdf', '&\Z'),
+(870, './files/UU-12-Tahun-2011.pdf', '\n+*'),
+(871, './files/UU-12-Tahun-2011.pdf', '\Z$\Z%$&\n\Z'),
+(872, './files/UU-12-Tahun-2011.pdf', '\Z&\Z'),
+(873, './files/UU-12-Tahun-2011.pdf', '+\Z%'),
+(874, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n+$\Z'),
+(875, './files/UU-12-Tahun-2011.pdf', '\Z\n$\Z'),
+(876, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(877, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(878, './files/UU-12-Tahun-2011.pdf', '%\Z%$'),
+(879, './files/UU-12-Tahun-2011.pdf', '\n\Z'),
+(880, './files/UU-12-Tahun-2011.pdf', '\Z+&\Z&&$*\Z'),
+(881, './files/UU-12-Tahun-2011.pdf', '+\Z%'),
+(882, './files/UU-12-Tahun-2011.pdf', '\n\n8'),
+(883, './files/UU-12-Tahun-2011.pdf', '\n\n+%$+\Z+'),
+(884, './files/UU-12-Tahun-2011.pdf', '\n+'),
+(885, './files/UU-12-Tahun-2011.pdf', '9\Z*'),
+(886, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n\n+$\Z'),
+(887, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(888, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(889, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(890, './files/UU-12-Tahun-2011.pdf', '\Z%$&'),
+(891, './files/UU-12-Tahun-2011.pdf', '#\Z\n\n+#&'),
+(892, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(893, './files/UU-12-Tahun-2011.pdf', '%+'),
+(894, './files/UU-12-Tahun-2011.pdf', '\n+'),
+(895, './files/UU-12-Tahun-2011.pdf', '9\Z*'),
+(896, './files/UU-12-Tahun-2011.pdf', '\Z\Z\n'),
+(897, './files/UU-12-Tahun-2011.pdf', '+*%$'),
+(898, './files/UU-12-Tahun-2011.pdf', '$\Z+*$+\Z$+'),
+(899, './files/UU-12-Tahun-2011.pdf', '\n\n+%$+\Z+'),
+(900, './files/UU-12-Tahun-2011.pdf', '$'),
+(901, './files/UU-12-Tahun-2011.pdf', '%\Z'),
+(902, './files/UU-12-Tahun-2011.pdf', '%'),
+(903, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n\n+$\Z'),
+(904, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(905, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(906, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(907, './files/UU-12-Tahun-2011.pdf', '\Z%$&'),
+(908, './files/UU-12-Tahun-2011.pdf', '#\Z\n\n+#&'),
+(909, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(910, './files/UU-12-Tahun-2011.pdf', '%+'),
+(911, './files/UU-12-Tahun-2011.pdf', '$'),
+(912, './files/UU-12-Tahun-2011.pdf', '%\Z'),
+(913, './files/UU-12-Tahun-2011.pdf', '\Z\Z\n'),
+(914, './files/UU-12-Tahun-2011.pdf', '+*%$'),
+(915, './files/UU-12-Tahun-2011.pdf', '$\Z+*$'),
+(916, './files/UU-12-Tahun-2011.pdf', '\n\n0'),
+(917, './files/UU-12-Tahun-2011.pdf', '\n\n+'),
+(918, './files/UU-12-Tahun-2011.pdf', '+*'),
+(919, './files/UU-12-Tahun-2011.pdf', '**'),
+(920, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(921, './files/UU-12-Tahun-2011.pdf', '*$%\n\n\n+'),
+(922, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(923, './files/UU-12-Tahun-2011.pdf', '\Z*%+$\Z'),
+(924, './files/UU-12-Tahun-2011.pdf', '+\Z'),
+(925, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(926, './files/UU-12-Tahun-2011.pdf', '+\n'),
+(927, './files/UU-12-Tahun-2011.pdf', '\Z%$&\Z\Z'),
+(928, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(929, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(930, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(931, './files/UU-12-Tahun-2011.pdf', '*$*$\Z*'),
+(932, './files/UU-12-Tahun-2011.pdf', '+\n%+\Z'),
+(933, './files/UU-12-Tahun-2011.pdf', '\Z%+'),
+(934, './files/UU-12-Tahun-2011.pdf', '\Z**%%*'),
+(935, './files/UU-12-Tahun-2011.pdf', '\n\n'),
+(936, './files/UU-12-Tahun-2011.pdf', '\n\n+'),
+(937, './files/UU-12-Tahun-2011.pdf', '+*'),
+(938, './files/UU-12-Tahun-2011.pdf', '*+'),
+(939, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(940, './files/UU-12-Tahun-2011.pdf', '*$%\n\n+'),
+(941, './files/UU-12-Tahun-2011.pdf', '\Z*%+$\Z'),
+(942, './files/UU-12-Tahun-2011.pdf', '+\Z'),
+(943, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(944, './files/UU-12-Tahun-2011.pdf', '+\n'),
+(945, './files/UU-12-Tahun-2011.pdf', '\Z%$&\Z\n+%$+\Z+'),
+(946, './files/UU-12-Tahun-2011.pdf', '\n+'),
+(947, './files/UU-12-Tahun-2011.pdf', '9\Z*%$\n\n+%$+\Z+'),
+(948, './files/UU-12-Tahun-2011.pdf', '$'),
+(949, './files/UU-12-Tahun-2011.pdf', '%\Z'),
+(950, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(951, './files/UU-12-Tahun-2011.pdf', '*$*$\Z\n*'),
+(952, './files/UU-12-Tahun-2011.pdf', '+%+\Z'),
+(953, './files/UU-12-Tahun-2011.pdf', '\Z%+'),
+(954, './files/UU-12-Tahun-2011.pdf', '\Z**%%*'),
+(955, './files/UU-12-Tahun-2011.pdf', '\n\n'),
+(956, './files/UU-12-Tahun-2011.pdf', '\n*&'),
+(957, './files/UU-12-Tahun-2011.pdf', '&'),
+(958, './files/UU-12-Tahun-2011.pdf', '&'),
+(959, './files/UU-12-Tahun-2011.pdf', '\Z*&'),
+(960, './files/UU-12-Tahun-2011.pdf', '%\Z\n%$'),
+(961, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(962, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(963, './files/UU-12-Tahun-2011.pdf', '$&$'),
+(964, './files/UU-12-Tahun-2011.pdf', '%\Z'),
+(965, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(966, './files/UU-12-Tahun-2011.pdf', '\n\n%+'),
+(967, './files/UU-12-Tahun-2011.pdf', '*$%$*'),
+(968, './files/UU-12-Tahun-2011.pdf', '%+%\Z%$'),
+(969, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(970, './files/UU-12-Tahun-2011.pdf', '%\n'),
+(971, './files/UU-12-Tahun-2011.pdf', '+%\Z$\Z'),
+(972, './files/UU-12-Tahun-2011.pdf', '#&\Z*'),
+(973, './files/UU-12-Tahun-2011.pdf', '+'),
+(974, './files/UU-12-Tahun-2011.pdf', '\Z\Z\n'),
+(975, './files/UU-12-Tahun-2011.pdf', '\Z%$+\Z*'),
+(976, './files/UU-12-Tahun-2011.pdf', '%+*$%'),
+(977, './files/UU-12-Tahun-2011.pdf', '*$%$\n\Z'),
+(978, './files/UU-12-Tahun-2011.pdf', '\Z\Z\Z'),
+(979, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(980, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(981, './files/UU-12-Tahun-2011.pdf', '\Z\Z\n+%$+\Z\n+'),
+(982, './files/UU-12-Tahun-2011.pdf', '\n+'),
+(983, './files/UU-12-Tahun-2011.pdf', '9\Z*%$\Z'),
+(984, './files/UU-12-Tahun-2011.pdf', '\Z\Z\n+%$+\Z+'),
+(985, './files/UU-12-Tahun-2011.pdf', '\n$'),
+(986, './files/UU-12-Tahun-2011.pdf', '%\Z'),
+(987, './files/UU-12-Tahun-2011.pdf', '%**'),
+(988, './files/UU-12-Tahun-2011.pdf', '$*%+'),
+(989, './files/UU-12-Tahun-2011.pdf', '+*'),
+(990, './files/UU-12-Tahun-2011.pdf', '\Z&$%$'),
+(991, './files/UU-12-Tahun-2011.pdf', '$&$*'),
+(992, './files/UU-12-Tahun-2011.pdf', '+&%'),
+(993, './files/UU-12-Tahun-2011.pdf', '\n\Z$\Z'),
+(994, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(995, './files/UU-12-Tahun-2011.pdf', '\n\n1\n'),
+(996, './files/UU-12-Tahun-2011.pdf', '\n\n'),
+(997, './files/UU-12-Tahun-2011.pdf', '\n\n\Z$\Z'),
+(998, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(999, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1000, './files/UU-12-Tahun-2011.pdf', '%\Z\n+%$+\Z\n\n+$\Z'),
+(1001, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1002, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1003, './files/UU-12-Tahun-2011.pdf', '+\Z+\n'),
+(1004, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(1005, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1006, './files/UU-12-Tahun-2011.pdf', '\Z+\Z+\n'),
+(1007, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(1008, './files/UU-12-Tahun-2011.pdf', '\Z*+%+'),
+(1009, './files/UU-12-Tahun-2011.pdf', '&\n\r\Z'),
+(1010, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1011, './files/UU-12-Tahun-2011.pdf', '\Z+%+'),
+(1012, './files/UU-12-Tahun-2011.pdf', '&\n\r\Z'),
+(1013, './files/UU-12-Tahun-2011.pdf', '\Z*+\Z+'),
+(1014, './files/UU-12-Tahun-2011.pdf', ''),
+(1015, './files/UU-12-Tahun-2011.pdf', '\Z+\Z\n+'),
+(1016, './files/UU-12-Tahun-2011.pdf', '%$+%+'),
+(1017, './files/UU-12-Tahun-2011.pdf', '\n\n6'),
+(1018, './files/UU-12-Tahun-2011.pdf', '\n%+$%\Z\n+%$+\Z\n+$\Z'),
+(1019, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1020, './files/UU-12-Tahun-2011.pdf', '\Z\Z\n'),
+(1021, './files/UU-12-Tahun-2011.pdf', '%+'),
+(1022, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1023, './files/UU-12-Tahun-2011.pdf', '$%'),
+(1024, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n\n+$\Z'),
+(1025, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1026, './files/UU-12-Tahun-2011.pdf', '\Z\Z**$'),
+(1027, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1028, './files/UU-12-Tahun-2011.pdf', '\Z*4$\Z*\n'),
+(1029, './files/UU-12-Tahun-2011.pdf', '++&\n+%$+\Z\n+$\Z'),
+(1030, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1031, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1032, './files/UU-12-Tahun-2011.pdf', '\n\n1'),
+(1033, './files/UU-12-Tahun-2011.pdf', '\n#\Z\n+#&'),
+(1034, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(1035, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1036, './files/UU-12-Tahun-2011.pdf', '*\Z&%\n\n'),
+(1037, './files/UU-12-Tahun-2011.pdf', '#\Z\n+#&'),
+(1038, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(1039, './files/UU-12-Tahun-2011.pdf', '%*\Z\n'),
+(1040, './files/UU-12-Tahun-2011.pdf', '&*$'),
+(1041, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1042, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1043, './files/UU-12-Tahun-2011.pdf', '\Z*++\n'),
+(1044, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(1045, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1046, './files/UU-12-Tahun-2011.pdf', '$\Z012\n\n2'),
+(1047, './files/UU-12-Tahun-2011.pdf', '\n#\Z\n+#&'),
+(1048, './files/UU-12-Tahun-2011.pdf', '\Z+'),
+(1049, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1050, './files/UU-12-Tahun-2011.pdf', '*\Z&%\n\n'),
+(1051, './files/UU-12-Tahun-2011.pdf', '#\Z\n+#&'),
+(1052, './files/UU-12-Tahun-2011.pdf', '\Z+'),
+(1053, './files/UU-12-Tahun-2011.pdf', '*\Z\n'),
+(1054, './files/UU-12-Tahun-2011.pdf', '&*$'),
+(1055, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1056, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1057, './files/UU-12-Tahun-2011.pdf', '\Z*++\n'),
+(1058, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(1059, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1060, './files/UU-12-Tahun-2011.pdf', '$\Z012'),
+(1061, './files/UU-12-Tahun-2011.pdf', '\n\n7'),
+(1062, './files/UU-12-Tahun-2011.pdf', '\n#\Z\n+#&'),
+(1063, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(1064, './files/UU-12-Tahun-2011.pdf', '%+'),
+(1065, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1066, './files/UU-12-Tahun-2011.pdf', '*\Z&%\n'),
+(1067, './files/UU-12-Tahun-2011.pdf', '#\Z\n+#&'),
+(1068, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(1069, './files/UU-12-Tahun-2011.pdf', '%\n+'),
+(1070, './files/UU-12-Tahun-2011.pdf', '*\Z'),
+(1071, './files/UU-12-Tahun-2011.pdf', '&*$'),
+(1072, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1073, './files/UU-12-Tahun-2011.pdf', '\Z\n\Z'),
+(1074, './files/UU-12-Tahun-2011.pdf', '\Z*++'),
+(1075, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(1076, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1077, './files/UU-12-Tahun-2011.pdf', '$\Z\n012'),
+(1078, './files/UU-12-Tahun-2011.pdf', '\n\n\n*'),
+(1079, './files/UU-12-Tahun-2011.pdf', '\n\n\Z'),
+(1080, './files/UU-12-Tahun-2011.pdf', '+$'),
+(1081, './files/UU-12-Tahun-2011.pdf', '&\Z*$+*'),
+(1082, './files/UU-12-Tahun-2011.pdf', '*$+'),
+(1083, './files/UU-12-Tahun-2011.pdf', '$&$\n\Z+'),
+(1084, './files/UU-12-Tahun-2011.pdf', '\n\n*'),
+(1085, './files/UU-12-Tahun-2011.pdf', '6\n'),
+(1086, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1087, './files/UU-12-Tahun-2011.pdf', '\Z*++'),
+(1088, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(1089, './files/UU-12-Tahun-2011.pdf', '\Z*\n'),
+(1090, './files/UU-12-Tahun-2011.pdf', '$\Z012+$'),
+(1091, './files/UU-12-Tahun-2011.pdf', '&\Z'),
+(1092, './files/UU-12-Tahun-2011.pdf', '$&$'),
+(1093, './files/UU-12-Tahun-2011.pdf', '*+'),
+(1094, './files/UU-12-Tahun-2011.pdf', '\n\n+%$+\Z\n+$\Z'),
+(1095, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1096, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1097, './files/UU-12-Tahun-2011.pdf', '\Z\n\n\Z'),
+(1098, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1099, './files/UU-12-Tahun-2011.pdf', '\n\n2\n'),
+(1100, './files/UU-12-Tahun-2011.pdf', '\n\n'),
+(1101, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1102, './files/UU-12-Tahun-2011.pdf', '\Z*++'),
+(1103, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(1104, './files/UU-12-Tahun-2011.pdf', '\Z*\n'),
+(1105, './files/UU-12-Tahun-2011.pdf', '$\Z012'),
+(1106, './files/UU-12-Tahun-2011.pdf', '%'),
+(1107, './files/UU-12-Tahun-2011.pdf', '%&\Z'),
+(1108, './files/UU-12-Tahun-2011.pdf', '+\Z+\n'),
+(1109, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(1110, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1111, './files/UU-12-Tahun-2011.pdf', '\n\n\Z'),
+(1112, './files/UU-12-Tahun-2011.pdf', '%\Z\Z'),
+(1113, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1114, './files/UU-12-Tahun-2011.pdf', '\Z*++'),
+(1115, './files/UU-12-Tahun-2011.pdf', '&\n\r\Z'),
+(1116, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1117, './files/UU-12-Tahun-2011.pdf', '$\Z012'),
+(1118, './files/UU-12-Tahun-2011.pdf', '+\Z+\n'),
+(1119, './files/UU-12-Tahun-2011.pdf', '&\r\Z'),
+(1120, './files/UU-12-Tahun-2011.pdf', '\Z*%'),
+(1121, './files/UU-12-Tahun-2011.pdf', '&+$'),
+(1122, './files/UU-12-Tahun-2011.pdf', '&\Z'),
+(1123, './files/UU-12-Tahun-2011.pdf', '*+\n'),
+(1124, './files/UU-12-Tahun-2011.pdf', '+'),
+(1125, './files/UU-12-Tahun-2011.pdf', '&$\Z\Z'),
+(1126, './files/UU-12-Tahun-2011.pdf', '\n\n*'),
+(1127, './files/UU-12-Tahun-2011.pdf', '1\n\n+%$+\Z\n+$\Z'),
+(1128, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1129, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1130, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1131, './files/UU-12-Tahun-2011.pdf', '%$+'),
+(1132, './files/UU-12-Tahun-2011.pdf', '\n\Z'),
+(1133, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1134, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1135, './files/UU-12-Tahun-2011.pdf', '$%\Z'),
+(1136, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1137, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1138, './files/UU-12-Tahun-2011.pdf', '\Z\n\n+%$+\Z\n+$\Z'),
+(1139, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1140, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1141, './files/UU-12-Tahun-2011.pdf', '#'),
+(1142, './files/UU-12-Tahun-2011.pdf', '\n\r\r\n\n		\n\n	\n	\n\n*'),
+(1143, './files/UU-12-Tahun-2011.pdf', '2\n'),
+(1144, './files/UU-12-Tahun-2011.pdf', '\Z%$&\n+%$+\Z\n+$\Z'),
+(1145, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1146, './files/UU-12-Tahun-2011.pdf', '\Z\Z\n'),
+(1147, './files/UU-12-Tahun-2011.pdf', '+$*'),
+(1148, './files/UU-12-Tahun-2011.pdf', '&$&\Z+'),
+(1149, './files/UU-12-Tahun-2011.pdf', '*+&\Z'),
+(1150, './files/UU-12-Tahun-2011.pdf', '**\n\Z%$&\Z\n\n+%$+\Z\n+$\Z'),
+(1151, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1152, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1153, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(1154, './files/UU-12-Tahun-2011.pdf', '\Z\n'),
+(1155, './files/UU-12-Tahun-2011.pdf', '*\Z%$'),
+(1156, './files/UU-12-Tahun-2011.pdf', '$\Z3\n'),
+(1157, './files/UU-12-Tahun-2011.pdf', '\Z%$'),
+(1158, './files/UU-12-Tahun-2011.pdf', '%'),
+(1159, './files/UU-12-Tahun-2011.pdf', '\Z%$&'),
+(1160, './files/UU-12-Tahun-2011.pdf', '\Z%'),
+(1161, './files/UU-12-Tahun-2011.pdf', '%3\n'),
+(1162, './files/UU-12-Tahun-2011.pdf', '\n&**$\Z\Z%+'),
+(1163, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1164, './files/UU-12-Tahun-2011.pdf', '++&'),
+(1165, './files/UU-12-Tahun-2011.pdf', '\Z%+$%\n\Z3\n'),
+(1166, './files/UU-12-Tahun-2011.pdf', '&*\Z&\Z3\n'),
+(1167, './files/UU-12-Tahun-2011.pdf', '$\Z\Z'),
+(1168, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(1169, './files/UU-12-Tahun-2011.pdf', '$\Z\Z3\n4'),
+(1170, './files/UU-12-Tahun-2011.pdf', '*\Z+$$*\Z3'),
+(1171, './files/UU-12-Tahun-2011.pdf', '\Z\n'),
+(1172, './files/UU-12-Tahun-2011.pdf', '\n&%+$&\Z'),
+(1173, './files/UU-12-Tahun-2011.pdf', '\n\n*'),
+(1174, './files/UU-12-Tahun-2011.pdf', '\n\n7\n'),
+(1175, './files/UU-12-Tahun-2011.pdf', '\n\n\n*'),
+(1176, './files/UU-12-Tahun-2011.pdf', '7\n'),
+(1177, './files/UU-12-Tahun-2011.pdf', '\n%+$%\Z\n+%$+\Z\n+$\Z'),
+(1178, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1179, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1180, './files/UU-12-Tahun-2011.pdf', '+$*\n\Z'),
+(1181, './files/UU-12-Tahun-2011.pdf', '+\Z&\Z**'),
+(1182, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1183, './files/UU-12-Tahun-2011.pdf', '\Z3\n'),
+(1184, './files/UU-12-Tahun-2011.pdf', '\n&\Z$*\Z3\n'),
+(1185, './files/UU-12-Tahun-2011.pdf', '\n&\Z*\Z3\n'),
+(1186, './files/UU-12-Tahun-2011.pdf', '\n&&'),
+(1187, './files/UU-12-Tahun-2011.pdf', '$+\Z3\n'),
+(1188, './files/UU-12-Tahun-2011.pdf', '\n&\Z$*\Z%+\Z3\n4'),
+(1189, './files/UU-12-Tahun-2011.pdf', '\Z\Z&%$\Z'),
+(1190, './files/UU-12-Tahun-2011.pdf', '&3\n'),
+(1191, './files/UU-12-Tahun-2011.pdf', '\n&'),
+(1192, './files/UU-12-Tahun-2011.pdf', '\Z3\n'),
+(1193, './files/UU-12-Tahun-2011.pdf', '\n&*\Z&'),
+(1194, './files/UU-12-Tahun-2011.pdf', '$&\Z'),
+(1195, './files/UU-12-Tahun-2011.pdf', '$&$'),
+(1196, './files/UU-12-Tahun-2011.pdf', '\Z\n'),
+(1197, './files/UU-12-Tahun-2011.pdf', '+\Z%'),
+(1198, './files/UU-12-Tahun-2011.pdf', '\Z3\n'),
+(1199, './files/UU-12-Tahun-2011.pdf', '\n&%+%\Z'),
+(1200, './files/UU-12-Tahun-2011.pdf', '\Z&'),
+(1201, './files/UU-12-Tahun-2011.pdf', '*%\Z'),
+(1202, './files/UU-12-Tahun-2011.pdf', '$&$3'),
+(1203, './files/UU-12-Tahun-2011.pdf', '%$\n'),
+(1204, './files/UU-12-Tahun-2011.pdf', '\n&*\Z\Z&*+*\Z'),
+(1205, './files/UU-12-Tahun-2011.pdf', '\Z&*'),
+(1206, './files/UU-12-Tahun-2011.pdf', '+*\Z'),
+(1207, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1208, './files/UU-12-Tahun-2011.pdf', '+\Z&\Z***\Z'),
+(1209, './files/UU-12-Tahun-2011.pdf', '&*$'),
+(1210, './files/UU-12-Tahun-2011.pdf', '%'),
+(1211, './files/UU-12-Tahun-2011.pdf', '\n+%$+\Z\n+$\Z'),
+(1212, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1213, './files/UU-12-Tahun-2011.pdf', '\Z\Z%+%\Z%\n$\n'),
+(1214, './files/UU-12-Tahun-2011.pdf', '%+***'),
+(1215, './files/UU-12-Tahun-2011.pdf', '\Z**$'),
+(1216, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1217, './files/UU-12-Tahun-2011.pdf', '\Z'),
+(1218, './files/UU-12-Tahun-2011.pdf', '$&$\n\n+%$+\Z\n+$\Z'),
+(1219, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1220, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1221, './files/UU-12-Tahun-2011.pdf', '\Z+*\Z&$%\Z'),
+(1222, './files/UU-12-Tahun-2011.pdf', '\n\r\r\r\n&#x0000'),
+(1223, './files/UU-12-Tahun-2011.pdf', '	\r\r	\r	\r\n\n	\n	\n\n*'),
+(1224, './files/UU-12-Tahun-2011.pdf', '8\n'),
+(1225, './files/UU-12-Tahun-2011.pdf', '\n&#x0000'),
+(1226, './files/UU-12-Tahun-2011.pdf', '\Z*'),
+(1227, './files/UU-12-Tahun-2011.pdf', '++&\n+%$+\Z\n+$\Z'),
+(1228, './files/UU-12-Tahun-2011.pdf', '\Z$\Z'),
+(1229, './files/UU-12-Tahun-2011.pdf', '\Z\Z\n%+'),
+(1230, './files/UU-12-Tahun-2011.pdf', '+%*'),
+(1231, './files/UU-12-Tahun-2011.pdf', '\Z\Z'),
+(1232, './files/UU_28_2014.PDF', 'hukumonline'),
+(1233, './files/UU_28_2014.PDF', 'com\nundang'),
+(1234, './files/UU_28_2014.PDF', 'undang'),
+(1235, './files/UU_28_2014.PDF', 'republik'),
+(1236, './files/UU_28_2014.PDF', 'indonesia\nnomor'),
+(1237, './files/UU_28_2014.PDF', '2014\ntentang\nhak'),
+(1238, './files/UU_28_2014.PDF', 'cipta\ndengan'),
+(1239, './files/UU_28_2014.PDF', 'rahmat'),
+(1240, './files/UU_28_2014.PDF', 'tuhan'),
+(1241, './files/UU_28_2014.PDF', 'maha'),
+(1242, './files/UU_28_2014.PDF', 'esa\npresiden'),
+(1243, './files/UU_28_2014.PDF', 'republik'),
+(1244, './files/UU_28_2014.PDF', 'indonesia'),
+(1245, './files/UU_28_2014.PDF', '\nmenimbang'),
+(1246, './files/UU_28_2014.PDF', 'cipta'),
+(1247, './files/UU_28_2014.PDF', 'kekayaan'),
+(1248, './files/UU_28_2014.PDF', 'intelektual'),
+(1249, './files/UU_28_2014.PDF', 'bidang'),
+(1250, './files/UU_28_2014.PDF', 'ilmu'),
+(1251, './files/UU_28_2014.PDF', 'pengetahuan'),
+(1252, './files/UU_28_2014.PDF', 'seni'),
+(1253, './files/UU_28_2014.PDF', 'sastra'),
+(1254, './files/UU_28_2014.PDF', '\nmempunyai'),
+(1255, './files/UU_28_2014.PDF', 'peranan'),
+(1256, './files/UU_28_2014.PDF', 'strategis'),
+(1257, './files/UU_28_2014.PDF', 'mendukung'),
+(1258, './files/UU_28_2014.PDF', 'pembangunan'),
+(1259, './files/UU_28_2014.PDF', 'bangsa'),
+(1260, './files/UU_28_2014.PDF', 'memajukan'),
+(1261, './files/UU_28_2014.PDF', 'kesejahteraan'),
+(1262, './files/UU_28_2014.PDF', '\numum'),
+(1263, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1264, './files/UU_28_2014.PDF', 'diamanatkan'),
+(1265, './files/UU_28_2014.PDF', 'undang'),
+(1266, './files/UU_28_2014.PDF', 'undang'),
+(1267, './files/UU_28_2014.PDF', 'dasar'),
+(1268, './files/UU_28_2014.PDF', 'negara'),
+(1269, './files/UU_28_2014.PDF', 'republik'),
+(1270, './files/UU_28_2014.PDF', 'indonesia'),
+(1271, './files/UU_28_2014.PDF', '1945'),
+(1272, './files/UU_28_2014.PDF', 'perkembangan'),
+(1273, './files/UU_28_2014.PDF', 'ilmu'),
+(1274, './files/UU_28_2014.PDF', 'pengetahuan'),
+(1275, './files/UU_28_2014.PDF', 'teknologi'),
+(1276, './files/UU_28_2014.PDF', 'seni'),
+(1277, './files/UU_28_2014.PDF', 'sastra'),
+(1278, './files/UU_28_2014.PDF', 'pesat'),
+(1279, './files/UU_28_2014.PDF', '\nmemerlukan'),
+(1280, './files/UU_28_2014.PDF', 'peningkatan'),
+(1281, './files/UU_28_2014.PDF', 'pelindungan'),
+(1282, './files/UU_28_2014.PDF', 'jaminan'),
+(1283, './files/UU_28_2014.PDF', 'kepastian'),
+(1284, './files/UU_28_2014.PDF', 'hukum'),
+(1285, './files/UU_28_2014.PDF', 'pencipta'),
+(1286, './files/UU_28_2014.PDF', 'pemegang'),
+(1287, './files/UU_28_2014.PDF', 'cipta'),
+(1288, './files/UU_28_2014.PDF', '\ndan'),
+(1289, './files/UU_28_2014.PDF', 'pemilik'),
+(1290, './files/UU_28_2014.PDF', 'indonesia'),
+(1291, './files/UU_28_2014.PDF', 'anggota'),
+(1292, './files/UU_28_2014.PDF', 'pe\nrjanjian'),
+(1293, './files/UU_28_2014.PDF', 'internasional'),
+(1294, './files/UU_28_2014.PDF', 'bidang'),
+(1295, './files/UU_28_2014.PDF', 'cipta'),
+(1296, './files/UU_28_2014.PDF', '\nterkait'),
+(1297, './files/UU_28_2014.PDF', 'diperlukan'),
+(1298, './files/UU_28_2014.PDF', 'implementasi'),
+(1299, './files/UU_28_2014.PDF', 'sistem'),
+(1300, './files/UU_28_2014.PDF', 'hukum'),
+(1301, './files/UU_28_2014.PDF', 'nasionalagar'),
+(1302, './files/UU_28_2014.PDF', 'pencipta'),
+(1303, './files/UU_28_2014.PDF', '\ndan'),
+(1304, './files/UU_28_2014.PDF', 'kreator'),
+(1305, './files/UU_28_2014.PDF', 'nasional'),
+(1306, './files/UU_28_2014.PDF', 'berkompetisi'),
+(1307, './files/UU_28_2014.PDF', 'internasional'),
+(1308, './files/UU_28_2014.PDF', 'undang'),
+(1309, './files/UU_28_2014.PDF', 'undang'),
+(1310, './files/UU_28_2014.PDF', 'nomor'),
+(1311, './files/UU_28_2014.PDF', '2002'),
+(1312, './files/UU_28_2014.PDF', 'cipta'),
+(1313, './files/UU_28_2014.PDF', '\nperkembangan'),
+(1314, './files/UU_28_2014.PDF', 'hukum'),
+(1315, './files/UU_28_2014.PDF', 'masyarakat'),
+(1316, './files/UU_28_2014.PDF', 'diganti'),
+(1317, './files/UU_28_2014.PDF', 'undang'),
+(1318, './files/UU_28_2014.PDF', 'undang'),
+(1319, './files/UU_28_2014.PDF', '\nbaru'),
+(1320, './files/UU_28_2014.PDF', 'pertimbangan'),
+(1321, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1322, './files/UU_28_2014.PDF', 'dimaksud'),
+(1323, './files/UU_28_2014.PDF', 'huruf'),
+(1324, './files/UU_28_2014.PDF', 'huruf'),
+(1325, './files/UU_28_2014.PDF', 'huruf'),
+(1326, './files/UU_28_2014.PDF', 'huruf'),
+(1327, './files/UU_28_2014.PDF', '\nperlu'),
+(1328, './files/UU_28_2014.PDF', 'membentuk'),
+(1329, './files/UU_28_2014.PDF', 'undang'),
+(1330, './files/UU_28_2014.PDF', 'undang'),
+(1331, './files/UU_28_2014.PDF', 'cipta'),
+(1332, './files/UU_28_2014.PDF', '\nmengingat'),
+(1333, './files/UU_28_2014.PDF', '\npasal'),
+(1334, './files/UU_28_2014.PDF', 'ayat'),
+(1335, './files/UU_28_2014.PDF', 'pasal'),
+(1336, './files/UU_28_2014.PDF', 'pasal'),
+(1337, './files/UU_28_2014.PDF', 'ayat'),
+(1338, './files/UU_28_2014.PDF', 'pasal'),
+(1339, './files/UU_28_2014.PDF', 'undang'),
+(1340, './files/UU_28_2014.PDF', 'undang'),
+(1341, './files/UU_28_2014.PDF', 'dasar'),
+(1342, './files/UU_28_2014.PDF', 'negara'),
+(1343, './files/UU_28_2014.PDF', 'republik'),
+(1344, './files/UU_28_2014.PDF', 'indonesia'),
+(1345, './files/UU_28_2014.PDF', '\ntahun'),
+(1346, './files/UU_28_2014.PDF', '1945'),
+(1347, './files/UU_28_2014.PDF', '\ndengan'),
+(1348, './files/UU_28_2014.PDF', 'persetujuan'),
+(1349, './files/UU_28_2014.PDF', 'bersama\ndewan'),
+(1350, './files/UU_28_2014.PDF', 'perwakilan'),
+(1351, './files/UU_28_2014.PDF', 'rakyat'),
+(1352, './files/UU_28_2014.PDF', 'republik'),
+(1353, './files/UU_28_2014.PDF', 'indonesia\ndan\npresiden'),
+(1354, './files/UU_28_2014.PDF', 'republik'),
+(1355, './files/UU_28_2014.PDF', 'indonesia\nmemutuskan'),
+(1356, './files/UU_28_2014.PDF', '\nmenetapkan'),
+(1357, './files/UU_28_2014.PDF', '\nundang'),
+(1358, './files/UU_28_2014.PDF', 'undang'),
+(1359, './files/UU_28_2014.PDF', 'cipta'),
+(1360, './files/UU_28_2014.PDF', '63\nwww'),
+(1361, './files/UU_28_2014.PDF', 'hukumonline'),
+(1362, './files/UU_28_2014.PDF', 'com\nbab'),
+(1363, './files/UU_28_2014.PDF', 'i\nketentuan'),
+(1364, './files/UU_28_2014.PDF', 'umum\ndalam'),
+(1365, './files/UU_28_2014.PDF', 'undang'),
+(1366, './files/UU_28_2014.PDF', 'undang'),
+(1367, './files/UU_28_2014.PDF', 'dimaksud'),
+(1368, './files/UU_28_2014.PDF', 'cipta'),
+(1369, './files/UU_28_2014.PDF', 'eksklusif'),
+(1370, './files/UU_28_2014.PDF', 'pencipta'),
+(1371, './files/UU_28_2014.PDF', 'timbul\n'),
+(1372, './files/UU_28_2014.PDF', 'otomatis'),
+(1373, './files/UU_28_2014.PDF', 'prinsip'),
+(1374, './files/UU_28_2014.PDF', 'deklaratif'),
+(1375, './files/UU_28_2014.PDF', '\nsetelah'),
+(1376, './files/UU_28_2014.PDF', 'ciptaan'),
+(1377, './files/UU_28_2014.PDF', 'diwujudkan'),
+(1378, './files/UU_28_2014.PDF', 'nyata'),
+(1379, './files/UU_28_2014.PDF', 'mengurangi'),
+(1380, './files/UU_28_2014.PDF', 'pembatasan'),
+(1381, './files/UU_28_2014.PDF', '\nketentuan'),
+(1382, './files/UU_28_2014.PDF', 'peraturan'),
+(1383, './files/UU_28_2014.PDF', 'perundang'),
+(1384, './files/UU_28_2014.PDF', 'undangan'),
+(1385, './files/UU_28_2014.PDF', 'pencipta'),
+(1386, './files/UU_28_2014.PDF', '\nmenghasilkan'),
+(1387, './files/UU_28_2014.PDF', 'ciptaan'),
+(1388, './files/UU_28_2014.PDF', 'bersifat'),
+(1389, './files/UU_28_2014.PDF', 'khas'),
+(1390, './files/UU_28_2014.PDF', 'pribadi'),
+(1391, './files/UU_28_2014.PDF', 'ciptaan'),
+(1392, './files/UU_28_2014.PDF', 'karya'),
+(1393, './files/UU_28_2014.PDF', 'cipta'),
+(1394, './files/UU_28_2014.PDF', 'bidang'),
+(1395, './files/UU_28_2014.PDF', 'ilmu'),
+(1396, './files/UU_28_2014.PDF', 'pengetahuan'),
+(1397, './files/UU_28_2014.PDF', 'seni'),
+(1398, './files/UU_28_2014.PDF', 'sastra'),
+(1399, './files/UU_28_2014.PDF', 'dihasilkan'),
+(1400, './files/UU_28_2014.PDF', '\ninspirasi'),
+(1401, './files/UU_28_2014.PDF', 'kemampuan'),
+(1402, './files/UU_28_2014.PDF', 'pikiran'),
+(1403, './files/UU_28_2014.PDF', 'imajinasi'),
+(1404, './files/UU_28_2014.PDF', 'keceka\ntan'),
+(1405, './files/UU_28_2014.PDF', 'keterampilan'),
+(1406, './files/UU_28_2014.PDF', 'keahlian'),
+(1407, './files/UU_28_2014.PDF', 'diekspresikan'),
+(1408, './files/UU_28_2014.PDF', '\ndalam'),
+(1409, './files/UU_28_2014.PDF', 'nyata'),
+(1410, './files/UU_28_2014.PDF', 'pemegang'),
+(1411, './files/UU_28_2014.PDF', 'cipta'),
+(1412, './files/UU_28_2014.PDF', 'pencipta'),
+(1413, './files/UU_28_2014.PDF', 'pemilik'),
+(1414, './files/UU_28_2014.PDF', 'cipta'),
+(1415, './files/UU_28_2014.PDF', '\nsecara'),
+(1416, './files/UU_28_2014.PDF', 'pencipta'),
+(1417, './files/UU_28_2014.PDF', '\ntersebut'),
+(1418, './files/UU_28_2014.PDF', 'berkaitan'),
+(1419, './files/UU_28_2014.PDF', 'cipta'),
+(1420, './files/UU_28_2014.PDF', 'eksklusif'),
+(1421, './files/UU_28_2014.PDF', 'pelaku'),
+(1422, './files/UU_28_2014.PDF', '\npertunjukan'),
+(1423, './files/UU_28_2014.PDF', 'producer'),
+(1424, './files/UU_28_2014.PDF', 'fonogram'),
+(1425, './files/UU_28_2014.PDF', 'lembaga'),
+(1426, './files/UU_28_2014.PDF', 'penyiaran'),
+(1427, './files/UU_28_2014.PDF', 'pelaku'),
+(1428, './files/UU_28_2014.PDF', 'pertunjukan'),
+(1429, './files/UU_28_2014.PDF', '\nmenampi]kan'),
+(1430, './files/UU_28_2014.PDF', 'mempertunjukkan'),
+(1431, './files/UU_28_2014.PDF', 'ciptaan'),
+(1432, './files/UU_28_2014.PDF', 'produser'),
+(1433, './files/UU_28_2014.PDF', 'fonogram'),
+(1434, './files/UU_28_2014.PDF', 'hukum\n'),
+(1435, './files/UU_28_2014.PDF', 'merekam'),
+(1436, './files/UU_28_2014.PDF', 'tanggung'),
+(1437, './files/UU_28_2014.PDF', '\njawab'),
+(1438, './files/UU_28_2014.PDF', 'melaksanakan'),
+(1439, './files/UU_28_2014.PDF', 'perekaman'),
+(1440, './files/UU_28_2014.PDF', 'suara'),
+(1441, './files/UU_28_2014.PDF', 'perekaman'),
+(1442, './files/UU_28_2014.PDF', 'bunyi'),
+(1443, './files/UU_28_2014.PDF', 'perekaman'),
+(1444, './files/UU_28_2014.PDF', 'pertunjukan'),
+(1445, './files/UU_28_2014.PDF', '\nmaupun'),
+(1446, './files/UU_28_2014.PDF', 'perekaman'),
+(1447, './files/UU_28_2014.PDF', 'suara'),
+(1448, './files/UU_28_2014.PDF', 'bunyi'),
+(1449, './files/UU_28_2014.PDF', 'lembaga'),
+(1450, './files/UU_28_2014.PDF', 'penyiaran'),
+(1451, './files/UU_28_2014.PDF', 'penyelenggara'),
+(1452, './files/UU_28_2014.PDF', 'penyiara\nn'),
+(1453, './files/UU_28_2014.PDF', 'lembaga'),
+(1454, './files/UU_28_2014.PDF', 'penyiaran'),
+(1455, './files/UU_28_2014.PDF', 'publik'),
+(1456, './files/UU_28_2014.PDF', 'lembaga'),
+(1457, './files/UU_28_2014.PDF', '\npenyiaran'),
+(1458, './files/UU_28_2014.PDF', 'swasta'),
+(1459, './files/UU_28_2014.PDF', 'lembaga'),
+(1460, './files/UU_28_2014.PDF', 'penyiaran'),
+(1461, './files/UU_28_2014.PDF', 'komunitas'),
+(1462, './files/UU_28_2014.PDF', 'lembaga'),
+(1463, './files/UU_28_2014.PDF', 'penyiaran'),
+(1464, './files/UU_28_2014.PDF', 'berlangganan'),
+(1465, './files/UU_28_2014.PDF', '\nmelaksanakan'),
+(1466, './files/UU_28_2014.PDF', 'tugas'),
+(1467, './files/UU_28_2014.PDF', 'fungsi'),
+(1468, './files/UU_28_2014.PDF', 'tanggung'),
+(1469, './files/UU_28_2014.PDF', 'jawabnya'),
+(1470, './files/UU_28_2014.PDF', 'ketentuan'),
+(1471, './files/UU_28_2014.PDF', 'peraturan'),
+(1472, './files/UU_28_2014.PDF', 'perundang'),
+(1473, './files/UU_28_2014.PDF', '\nundangan'),
+(1474, './files/UU_28_2014.PDF', 'komputer'),
+(1475, './files/UU_28_2014.PDF', 'seperangkat'),
+(1476, './files/UU_28_2014.PDF', 'instruksi'),
+(1477, './files/UU_28_2014.PDF', 'diekspresikan'),
+(1478, './files/UU_28_2014.PDF', 'bahasa'),
+(1479, './files/UU_28_2014.PDF', 'kode'),
+(1480, './files/UU_28_2014.PDF', 'skema'),
+(1481, './files/UU_28_2014.PDF', '\natau'),
+(1482, './files/UU_28_2014.PDF', 'apapun'),
+(1483, './files/UU_28_2014.PDF', 'ditujukan'),
+(1484, './files/UU_28_2014.PDF', 'komputer'),
+(1485, './files/UU_28_2014.PDF', 'bekerja'),
+(1486, './files/UU_28_2014.PDF', 'fungsi'),
+(1487, './files/UU_28_2014.PDF', 'tertentu'),
+(1488, './files/UU_28_2014.PDF', '\nmencapai'),
+(1489, './files/UU_28_2014.PDF', 'tertentu');
+INSERT INTO `dokumen` (`dokid`, `nama_file`, `token`) VALUES
+(1490, './files/UU_28_2014.PDF', 'potret'),
+(1491, './files/UU_28_2014.PDF', 'karya'),
+(1492, './files/UU_28_2014.PDF', 'fotografi'),
+(1493, './files/UU_28_2014.PDF', 'objek'),
+(1494, './files/UU_28_2014.PDF', 'manusia'),
+(1495, './files/UU_28_2014.PDF', 'pengumuman'),
+(1496, './files/UU_28_2014.PDF', 'pembacaan'),
+(1497, './files/UU_28_2014.PDF', 'penyiaran'),
+(1498, './files/UU_28_2014.PDF', 'pameran'),
+(1499, './files/UU_28_2014.PDF', 'ciptaan'),
+(1500, './files/UU_28_2014.PDF', 'alat'),
+(1501, './files/UU_28_2014.PDF', 'apapun'),
+(1502, './files/UU_28_2014.PDF', '\nbaik'),
+(1503, './files/UU_28_2014.PDF', 'elektronik'),
+(1504, './files/UU_28_2014.PDF', 'elektronik'),
+(1505, './files/UU_28_2014.PDF', 'apapun'),
+(1506, './files/UU_28_2014.PDF', 'ciptaan'),
+(1507, './files/UU_28_2014.PDF', '\ndibaca'),
+(1508, './files/UU_28_2014.PDF', 'didengar'),
+(1509, './files/UU_28_2014.PDF', 'dilihat'),
+(1510, './files/UU_28_2014.PDF', 'penggandaan'),
+(1511, './files/UU_28_2014.PDF', 'perbuatan'),
+(1512, './files/UU_28_2014.PDF', 'menggandakan'),
+(1513, './files/UU_28_2014.PDF', 'salinan'),
+(1514, './files/UU_28_2014.PDF', 'ciptaan'),
+(1515, './files/UU_28_2014.PDF', '\nfonogram'),
+(1516, './files/UU_28_2014.PDF', 'apapun'),
+(1517, './files/UU_28_2014.PDF', 'permanen'),
+(1518, './files/UU_28_2014.PDF', 'fiksasi'),
+(1519, './files/UU_28_2014.PDF', 'perekaman'),
+(1520, './files/UU_28_2014.PDF', 'suara'),
+(1521, './files/UU_28_2014.PDF', 'didengar'),
+(1522, './files/UU_28_2014.PDF', 'perekaman'),
+(1523, './files/UU_28_2014.PDF', 'gambar'),
+(1524, './files/UU_28_2014.PDF', 'keduanya'),
+(1525, './files/UU_28_2014.PDF', '\ndilihat'),
+(1526, './files/UU_28_2014.PDF', 'didengar'),
+(1527, './files/UU_28_2014.PDF', 'digandakan'),
+(1528, './files/UU_28_2014.PDF', 'dikomunikasikan'),
+(1529, './files/UU_28_2014.PDF', 'perangkat'),
+(1530, './files/UU_28_2014.PDF', 'apapun'),
+(1531, './files/UU_28_2014.PDF', 'fonogram'),
+(1532, './files/UU_28_2014.PDF', 'fiksasi'),
+(1533, './files/UU_28_2014.PDF', 'suara'),
+(1534, './files/UU_28_2014.PDF', 'pertunjukan'),
+(1535, './files/UU_28_2014.PDF', 'suara'),
+(1536, './files/UU_28_2014.PDF', 'representasi'),
+(1537, './files/UU_28_2014.PDF', 'suara'),
+(1538, './files/UU_28_2014.PDF', '\ntermasuk'),
+(1539, './files/UU_28_2014.PDF', 'fiksasi'),
+(1540, './files/UU_28_2014.PDF', 'tergabung'),
+(1541, './files/UU_28_2014.PDF', 'sinematografi'),
+(1542, './files/UU_28_2014.PDF', 'ciptaan'),
+(1543, './files/UU_28_2014.PDF', 'audiovisual'),
+(1544, './files/UU_28_2014.PDF', 'penyiaran'),
+(1545, './files/UU_28_2014.PDF', 'pentransmisian'),
+(1546, './files/UU_28_2014.PDF', 'ciptaan'),
+(1547, './files/UU_28_2014.PDF', 'produk'),
+(1548, './files/UU_28_2014.PDF', 'kabel'),
+(1549, './files/UU_28_2014.PDF', '63\nwww'),
+(1550, './files/UU_28_2014.PDF', 'hukumonline'),
+(1551, './files/UU_28_2014.PDF', 'com\nditerima'),
+(1552, './files/UU_28_2014.PDF', 'lokasi'),
+(1553, './files/UU_28_2014.PDF', 'transmisi'),
+(1554, './files/UU_28_2014.PDF', 'berasal'),
+(1555, './files/UU_28_2014.PDF', 'komunikasi'),
+(1556, './files/UU_28_2014.PDF', 'publik'),
+(1557, './files/UU_28_2014.PDF', 'selanjutnya'),
+(1558, './files/UU_28_2014.PDF', 'disebut'),
+(1559, './files/UU_28_2014.PDF', 'komunikasi'),
+(1560, './files/UU_28_2014.PDF', 'pentransmisian'),
+(1561, './files/UU_28_2014.PDF', 'ciptaan'),
+(1562, './files/UU_28_2014.PDF', '\npertunjukan'),
+(1563, './files/UU_28_2014.PDF', 'fonogram'),
+(1564, './files/UU_28_2014.PDF', 'kabel'),
+(1565, './files/UU_28_2014.PDF', 'media'),
+(1566, './files/UU_28_2014.PDF', 'penyiaran'),
+(1567, './files/UU_28_2014.PDF', 'diterima'),
+(1568, './files/UU_28_2014.PDF', '\noleh'),
+(1569, './files/UU_28_2014.PDF', 'publik'),
+(1570, './files/UU_28_2014.PDF', 'penyediaan'),
+(1571, './files/UU_28_2014.PDF', 'ciptaan'),
+(1572, './files/UU_28_2014.PDF', 'pert\nunjukan'),
+(1573, './files/UU_28_2014.PDF', 'fonogram'),
+(1574, './files/UU_28_2014.PDF', 'diakses'),
+(1575, './files/UU_28_2014.PDF', 'publik'),
+(1576, './files/UU_28_2014.PDF', '\ndari'),
+(1577, './files/UU_28_2014.PDF', 'dipilihnya'),
+(1578, './files/UU_28_2014.PDF', 'pendistribusian'),
+(1579, './files/UU_28_2014.PDF', 'penjualan'),
+(1580, './files/UU_28_2014.PDF', 'pengedaran'),
+(1581, './files/UU_28_2014.PDF', 'd\nan'),
+(1582, './files/UU_28_2014.PDF', 'penyebaran'),
+(1583, './files/UU_28_2014.PDF', 'ciptaan'),
+(1584, './files/UU_28_2014.PDF', 'produk'),
+(1585, './files/UU_28_2014.PDF', '\nterkait'),
+(1586, './files/UU_28_2014.PDF', 'kuasa'),
+(1587, './files/UU_28_2014.PDF', 'konsultan'),
+(1588, './files/UU_28_2014.PDF', 'kekayaan'),
+(1589, './files/UU_28_2014.PDF', 'intelektual'),
+(1590, './files/UU_28_2014.PDF', 'kuasa'),
+(1591, './files/UU_28_2014.PDF', 'pencipta'),
+(1592, './files/UU_28_2014.PDF', 'pemegang'),
+(1593, './files/UU_28_2014.PDF', '\nhak'),
+(1594, './files/UU_28_2014.PDF', 'cipta'),
+(1595, './files/UU_28_2014.PDF', 'pemilik'),
+(1596, './files/UU_28_2014.PDF', 'permohonan'),
+(1597, './files/UU_28_2014.PDF', 'permohonan'),
+(1598, './files/UU_28_2014.PDF', 'pencatatan'),
+(1599, './files/UU_28_2014.PDF', 'ciptaan'),
+(1600, './files/UU_28_2014.PDF', 'pemohon'),
+(1601, './files/UU_28_2014.PDF', 'menteri'),
+(1602, './files/UU_28_2014.PDF', 'lisensi'),
+(1603, './files/UU_28_2014.PDF', 'izin'),
+(1604, './files/UU_28_2014.PDF', 'tertulis'),
+(1605, './files/UU_28_2014.PDF', 'diberikan'),
+(1606, './files/UU_28_2014.PDF', 'pemegang'),
+(1607, './files/UU_28_2014.PDF', 'cipta'),
+(1608, './files/UU_28_2014.PDF', 'pemilik'),
+(1609, './files/UU_28_2014.PDF', '\npihak'),
+(1610, './files/UU_28_2014.PDF', 'melaksanakan'),
+(1611, './files/UU_28_2014.PDF', 'ekonomi'),
+(1612, './files/UU_28_2014.PDF', 'ci\nptaannya'),
+(1613, './files/UU_28_2014.PDF', 'produk'),
+(1614, './files/UU_28_2014.PDF', 'syarat'),
+(1615, './files/UU_28_2014.PDF', '\ntertentu'),
+(1616, './files/UU_28_2014.PDF', 'royalti'),
+(1617, './files/UU_28_2014.PDF', 'imbalan'),
+(1618, './files/UU_28_2014.PDF', 'pemanfaatan'),
+(1619, './files/UU_28_2014.PDF', 'ekonomi'),
+(1620, './files/UU_28_2014.PDF', 'ciptaan'),
+(1621, './files/UU_28_2014.PDF', 'produk'),
+(1622, './files/UU_28_2014.PDF', '\nditerima'),
+(1623, './files/UU_28_2014.PDF', 'pencipta'),
+(1624, './files/UU_28_2014.PDF', 'pemilik'),
+(1625, './files/UU_28_2014.PDF', 'lembaga'),
+(1626, './files/UU_28_2014.PDF', 'manajemen'),
+(1627, './files/UU_28_2014.PDF', 'kolektif'),
+(1628, './files/UU_28_2014.PDF', 'institusi'),
+(1629, './files/UU_28_2014.PDF', 'berbentuk'),
+(1630, './files/UU_28_2014.PDF', 'hukum'),
+(1631, './files/UU_28_2014.PDF', 'nirlaba'),
+(1632, './files/UU_28_2014.PDF', 'diberi'),
+(1633, './files/UU_28_2014.PDF', 'kuasa'),
+(1634, './files/UU_28_2014.PDF', '\noleh'),
+(1635, './files/UU_28_2014.PDF', 'pencipta'),
+(1636, './files/UU_28_2014.PDF', 'pemegang'),
+(1637, './files/UU_28_2014.PDF', 'cipta'),
+(1638, './files/UU_28_2014.PDF', 'pemilik'),
+(1639, './files/UU_28_2014.PDF', 'guna'),
+(1640, './files/UU_28_2014.PDF', 'mengelola'),
+(1641, './files/UU_28_2014.PDF', 'ekonominya'),
+(1642, './files/UU_28_2014.PDF', '\ndalam'),
+(1643, './files/UU_28_2014.PDF', 'menghimpun'),
+(1644, './files/UU_28_2014.PDF', 'mendistribusikan'),
+(1645, './files/UU_28_2014.PDF', 'royalti'),
+(1646, './files/UU_28_2014.PDF', 'pembajakan'),
+(1647, './files/UU_28_2014.PDF', 'penggandaan'),
+(1648, './files/UU_28_2014.PDF', 'ciptaan'),
+(1649, './files/UU_28_2014.PDF', 'produk'),
+(1650, './files/UU_28_2014.PDF', '\npendistribusian'),
+(1651, './files/UU_28_2014.PDF', 'penggandaan'),
+(1652, './files/UU_28_2014.PDF', 'dimaksud'),
+(1653, './files/UU_28_2014.PDF', 'luas'),
+(1654, './files/UU_28_2014.PDF', 'memperoleh'),
+(1655, './files/UU_28_2014.PDF', 'keuntungan'),
+(1656, './files/UU_28_2014.PDF', '\nekonomi'),
+(1657, './files/UU_28_2014.PDF', 'komersial'),
+(1658, './files/UU_28_2014.PDF', 'pemanfaatan'),
+(1659, './files/UU_28_2014.PDF', 'ciptaan'),
+(1660, './files/UU_28_2014.PDF', 'produk'),
+(1661, './files/UU_28_2014.PDF', 'tujuan'),
+(1662, './files/UU_28_2014.PDF', '\nuntuk'),
+(1663, './files/UU_28_2014.PDF', 'memperoleh'),
+(1664, './files/UU_28_2014.PDF', 'keuntungan'),
+(1665, './files/UU_28_2014.PDF', 'ekonomi'),
+(1666, './files/UU_28_2014.PDF', 'berbayar'),
+(1667, './files/UU_28_2014.PDF', 'ganti'),
+(1668, './files/UU_28_2014.PDF', 'rugi'),
+(1669, './files/UU_28_2014.PDF', 'pembayaran'),
+(1670, './files/UU_28_2014.PDF', 'uang'),
+(1671, './files/UU_28_2014.PDF', 'dibebankan'),
+(1672, './files/UU_28_2014.PDF', 'pelaku'),
+(1673, './files/UU_28_2014.PDF', 'pelanggaran'),
+(1674, './files/UU_28_2014.PDF', 'ekonomi'),
+(1675, './files/UU_28_2014.PDF', '\npencipta'),
+(1676, './files/UU_28_2014.PDF', 'pemegang'),
+(1677, './files/UU_28_2014.PDF', 'cipta'),
+(1678, './files/UU_28_2014.PDF', 'pemilik'),
+(1679, './files/UU_28_2014.PDF', 'putusan'),
+(1680, './files/UU_28_2014.PDF', 'pengadilan'),
+(1681, './files/UU_28_2014.PDF', 'perkara'),
+(1682, './files/UU_28_2014.PDF', '\nperdata'),
+(1683, './files/UU_28_2014.PDF', 'pidana'),
+(1684, './files/UU_28_2014.PDF', 'berkekuatan'),
+(1685, './files/UU_28_2014.PDF', 'hukum'),
+(1686, './files/UU_28_2014.PDF', 'tetap'),
+(1687, './files/UU_28_2014.PDF', 'kerugian'),
+(1688, './files/UU_28_2014.PDF', 'diderita'),
+(1689, './files/UU_28_2014.PDF', 'pencipta'),
+(1690, './files/UU_28_2014.PDF', 'pemegang'),
+(1691, './files/UU_28_2014.PDF', '\ncipta'),
+(1692, './files/UU_28_2014.PDF', 'pemilik'),
+(1693, './files/UU_28_2014.PDF', 'menteri'),
+(1694, './files/UU_28_2014.PDF', 'menteri'),
+(1695, './files/UU_28_2014.PDF', 'menyelenggarakan'),
+(1696, './files/UU_28_2014.PDF', 'urusan'),
+(1697, './files/UU_28_2014.PDF', 'pemerintahan'),
+(1698, './files/UU_28_2014.PDF', 'bidang'),
+(1699, './files/UU_28_2014.PDF', 'hukum'),
+(1700, './files/UU_28_2014.PDF', 'perseorangan'),
+(1701, './files/UU_28_2014.PDF', 'hukum'),
+(1702, './files/UU_28_2014.PDF', '\nundang'),
+(1703, './files/UU_28_2014.PDF', 'undang'),
+(1704, './files/UU_28_2014.PDF', 'berlaku'),
+(1705, './files/UU_28_2014.PDF', 'ciptaan'),
+(1706, './files/UU_28_2014.PDF', 'produk'),
+(1707, './files/UU_28_2014.PDF', 'warga'),
+(1708, './files/UU_28_2014.PDF', '\nnegara'),
+(1709, './files/UU_28_2014.PDF', 'penduduk'),
+(1710, './files/UU_28_2014.PDF', 'hukum'),
+(1711, './files/UU_28_2014.PDF', 'indonesia'),
+(1712, './files/UU_28_2014.PDF', 'ciptaan'),
+(1713, './files/UU_28_2014.PDF', '\nproduk'),
+(1714, './files/UU_28_2014.PDF', 'warga'),
+(1715, './files/UU_28_2014.PDF', 'negara'),
+(1716, './files/UU_28_2014.PDF', 'in\ndonesia'),
+(1717, './files/UU_28_2014.PDF', 'penduduk'),
+(1718, './files/UU_28_2014.PDF', 'indonesia'),
+(1719, './files/UU_28_2014.PDF', '\nbukan'),
+(1720, './files/UU_28_2014.PDF', 'hukum'),
+(1721, './files/UU_28_2014.PDF', 'indonesia'),
+(1722, './files/UU_28_2014.PDF', 'pengumuman'),
+(1723, './files/UU_28_2014.PDF', 'indonesia'),
+(1724, './files/UU_28_2014.PDF', 'ciptaan'),
+(1725, './files/UU_28_2014.PDF', 'produk'),
+(1726, './files/UU_28_2014.PDF', 'pe\nngguna'),
+(1727, './files/UU_28_2014.PDF', 'ciptaan'),
+(1728, './files/UU_28_2014.PDF', 'produk'),
+(1729, './files/UU_28_2014.PDF', '\nwarga'),
+(1730, './files/UU_28_2014.PDF', 'negara'),
+(1731, './files/UU_28_2014.PDF', 'indonesia'),
+(1732, './files/UU_28_2014.PDF', 'penduduk'),
+(1733, './files/UU_28_2014.PDF', 'indonesia'),
+(1734, './files/UU_28_2014.PDF', 'hukum'),
+(1735, './files/UU_28_2014.PDF', 'indonesia'),
+(1736, './files/UU_28_2014.PDF', '\nketentuan'),
+(1737, './files/UU_28_2014.PDF', 'negaranya'),
+(1738, './files/UU_28_2014.PDF', 'perjanjian'),
+(1739, './files/UU_28_2014.PDF', 'bilateral'),
+(1740, './files/UU_28_2014.PDF', 'negara'),
+(1741, './files/UU_28_2014.PDF', 'republik'),
+(1742, './files/UU_28_2014.PDF', 'indonesia'),
+(1743, './files/UU_28_2014.PDF', '\npelindungan'),
+(1744, './files/UU_28_2014.PDF', 'cipta'),
+(1745, './files/UU_28_2014.PDF', 'atau\n2'),
+(1746, './files/UU_28_2014.PDF', 'negaranya'),
+(1747, './files/UU_28_2014.PDF', 'negara'),
+(1748, './files/UU_28_2014.PDF', 'republik'),
+(1749, './files/UU_28_2014.PDF', 'indonesia'),
+(1750, './files/UU_28_2014.PDF', 'peserta'),
+(1751, './files/UU_28_2014.PDF', 'perjanjian'),
+(1752, './files/UU_28_2014.PDF', '63\nwww'),
+(1753, './files/UU_28_2014.PDF', 'hukumonline'),
+(1754, './files/UU_28_2014.PDF', 'com\nmultilateral'),
+(1755, './files/UU_28_2014.PDF', 'pelindungan'),
+(1756, './files/UU_28_2014.PDF', 'cipta'),
+(1757, './files/UU_28_2014.PDF', '\nundang'),
+(1758, './files/UU_28_2014.PDF', 'undang'),
+(1759, './files/UU_28_2014.PDF', 'mengatur'),
+(1760, './files/UU_28_2014.PDF', 'cipta'),
+(1761, './files/UU_28_2014.PDF', 'dan\nb'),
+(1762, './files/UU_28_2014.PDF', '\nbab'),
+(1763, './files/UU_28_2014.PDF', 'ii\nhak'),
+(1764, './files/UU_28_2014.PDF', 'cipta\nbagian'),
+(1765, './files/UU_28_2014.PDF', 'kesatu\nhak'),
+(1766, './files/UU_28_2014.PDF', 'cipta'),
+(1767, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1768, './files/UU_28_2014.PDF', 'dimaksud'),
+(1769, './files/UU_28_2014.PDF', 'pasal'),
+(1770, './files/UU_28_2014.PDF', 'huruf'),
+(1771, './files/UU_28_2014.PDF', 'eksklusif'),
+(1772, './files/UU_28_2014.PDF', 'terdiri'),
+(1773, './files/UU_28_2014.PDF', 'moral'),
+(1774, './files/UU_28_2014.PDF', '\ndan'),
+(1775, './files/UU_28_2014.PDF', 'ekonomi'),
+(1776, './files/UU_28_2014.PDF', '\nbagian'),
+(1777, './files/UU_28_2014.PDF', 'kedua\n'),
+(1778, './files/UU_28_2014.PDF', 'moral'),
+(1779, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1780, './files/UU_28_2014.PDF', 'dimaksud'),
+(1781, './files/UU_28_2014.PDF', 'pasal'),
+(1782, './files/UU_28_2014.PDF', 'melekat'),
+(1783, './files/UU_28_2014.PDF', 'abadi'),
+(1784, './files/UU_28_2014.PDF', '\npencipta'),
+(1785, './files/UU_28_2014.PDF', 'tetap'),
+(1786, './files/UU_28_2014.PDF', 'mencantumkan'),
+(1787, './files/UU_28_2014.PDF', 'mencantumkan'),
+(1788, './files/UU_28_2014.PDF', 'namanya'),
+(1789, './files/UU_28_2014.PDF', 'salinan'),
+(1790, './files/UU_28_2014.PDF', 'sehubungan'),
+(1791, './files/UU_28_2014.PDF', '\npemakaian'),
+(1792, './files/UU_28_2014.PDF', 'ciptaannya'),
+(1793, './files/UU_28_2014.PDF', 'aliasnya'),
+(1794, './files/UU_28_2014.PDF', 'samarannya'),
+(1795, './files/UU_28_2014.PDF', 'mengubah'),
+(1796, './files/UU_28_2014.PDF', 'ciptaannya'),
+(1797, './files/UU_28_2014.PDF', 'kepatutan'),
+(1798, './files/UU_28_2014.PDF', 'masyarakat'),
+(1799, './files/UU_28_2014.PDF', 'mengubah'),
+(1800, './files/UU_28_2014.PDF', 'judul'),
+(1801, './files/UU_28_2014.PDF', 'anak'),
+(1802, './files/UU_28_2014.PDF', 'judul'),
+(1803, './files/UU_28_2014.PDF', 'ciptaan'),
+(1804, './files/UU_28_2014.PDF', 'dan\ne'),
+(1805, './files/UU_28_2014.PDF', 'mempertahankan'),
+(1806, './files/UU_28_2014.PDF', 'haknya'),
+(1807, './files/UU_28_2014.PDF', 'distorsi'),
+(1808, './files/UU_28_2014.PDF', 'ciptaan'),
+(1809, './files/UU_28_2014.PDF', 'mutilasi'),
+(1810, './files/UU_28_2014.PDF', 'ciptaan'),
+(1811, './files/UU_28_2014.PDF', 'modifikasi'),
+(1812, './files/UU_28_2014.PDF', 'ciptaan'),
+(1813, './files/UU_28_2014.PDF', '\natau'),
+(1814, './files/UU_28_2014.PDF', 'bersifat'),
+(1815, './files/UU_28_2014.PDF', 'merugikan'),
+(1816, './files/UU_28_2014.PDF', 'kehormatan'),
+(1817, './files/UU_28_2014.PDF', 'reputasinya'),
+(1818, './files/UU_28_2014.PDF', 'moral'),
+(1819, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1820, './files/UU_28_2014.PDF', 'dimaksud'),
+(1821, './files/UU_28_2014.PDF', 'ayat'),
+(1822, './files/UU_28_2014.PDF', 'dialihkan'),
+(1823, './files/UU_28_2014.PDF', 'pencipta'),
+(1824, './files/UU_28_2014.PDF', '\ntetapi'),
+(1825, './files/UU_28_2014.PDF', 'pelaksanaan'),
+(1826, './files/UU_28_2014.PDF', 'dialihkan'),
+(1827, './files/UU_28_2014.PDF', 'wasiat'),
+(1828, './files/UU_28_2014.PDF', 'ketentuan'),
+(1829, './files/UU_28_2014.PDF', '\nperaturan'),
+(1830, './files/UU_28_2014.PDF', 'perundang'),
+(1831, './files/UU_28_2014.PDF', 'undangan'),
+(1832, './files/UU_28_2014.PDF', 'pencipta'),
+(1833, './files/UU_28_2014.PDF', 'meninggal'),
+(1834, './files/UU_28_2014.PDF', 'dunia'),
+(1835, './files/UU_28_2014.PDF', 'pengalihan'),
+(1836, './files/UU_28_2014.PDF', 'pelaksanaan'),
+(1837, './files/UU_28_2014.PDF', 'moral'),
+(1838, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1839, './files/UU_28_2014.PDF', 'dimaksud'),
+(1840, './files/UU_28_2014.PDF', 'ayat'),
+(1841, './files/UU_28_2014.PDF', 'penerima'),
+(1842, './files/UU_28_2014.PDF', '\ndapat'),
+(1843, './files/UU_28_2014.PDF', 'melepaskan'),
+(1844, './files/UU_28_2014.PDF', 'menolak'),
+(1845, './files/UU_28_2014.PDF', 'pelaksanaan'),
+(1846, './files/UU_28_2014.PDF', 'haknya'),
+(1847, './files/UU_28_2014.PDF', 'syarat'),
+(1848, './files/UU_28_2014.PDF', 'pelepasan'),
+(1849, './files/UU_28_2014.PDF', 'penolakan'),
+(1850, './files/UU_28_2014.PDF', '\npelaksanaan'),
+(1851, './files/UU_28_2014.PDF', 'dinyatakan'),
+(1852, './files/UU_28_2014.PDF', 'tertulis'),
+(1853, './files/UU_28_2014.PDF', '63\nwww'),
+(1854, './files/UU_28_2014.PDF', 'hukumonline'),
+(1855, './files/UU_28_2014.PDF', 'com\nuntuk'),
+(1856, './files/UU_28_2014.PDF', 'melindungi'),
+(1857, './files/UU_28_2014.PDF', 'moral'),
+(1858, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1859, './files/UU_28_2014.PDF', 'dimaksud'),
+(1860, './files/UU_28_2014.PDF', 'pasal'),
+(1861, './files/UU_28_2014.PDF', 'ayat'),
+(1862, './files/UU_28_2014.PDF', 'pencipta'),
+(1863, './files/UU_28_2014.PDF', 'informasi'),
+(1864, './files/UU_28_2014.PDF', 'manajemen'),
+(1865, './files/UU_28_2014.PDF', 'cipta'),
+(1866, './files/UU_28_2014.PDF', 'atau\nb'),
+(1867, './files/UU_28_2014.PDF', 'informasi'),
+(1868, './files/UU_28_2014.PDF', 'elektronik'),
+(1869, './files/UU_28_2014.PDF', 'cipta'),
+(1870, './files/UU_28_2014.PDF', 'informasi'),
+(1871, './files/UU_28_2014.PDF', 'manajemen'),
+(1872, './files/UU_28_2014.PDF', 'cipta'),
+(1873, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1874, './files/UU_28_2014.PDF', 'dimaksud'),
+(1875, './files/UU_28_2014.PDF', 'pasal'),
+(1876, './files/UU_28_2014.PDF', 'huruf'),
+(1877, './files/UU_28_2014.PDF', 'meliputi'),
+(1878, './files/UU_28_2014.PDF', 'informasi'),
+(1879, './files/UU_28_2014.PDF', '\ntentang'),
+(1880, './files/UU_28_2014.PDF', 'metode'),
+(1881, './files/UU_28_2014.PDF', 'sistem'),
+(1882, './files/UU_28_2014.PDF', 'mengidentifikasi'),
+(1883, './files/UU_28_2014.PDF', '\noriginalitas'),
+(1884, './files/UU_28_2014.PDF', 'substansi'),
+(1885, './files/UU_28_2014.PDF', 'ciptaan'),
+(1886, './files/UU_28_2014.PDF', 'penciptanya'),
+(1887, './files/UU_28_2014.PDF', '\ndan\nb'),
+(1888, './files/UU_28_2014.PDF', 'kode'),
+(1889, './files/UU_28_2014.PDF', 'informasi'),
+(1890, './files/UU_28_2014.PDF', 'kode'),
+(1891, './files/UU_28_2014.PDF', 'akses'),
+(1892, './files/UU_28_2014.PDF', 'informasi'),
+(1893, './files/UU_28_2014.PDF', 'elektronik'),
+(1894, './files/UU_28_2014.PDF', 'cipta'),
+(1895, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1896, './files/UU_28_2014.PDF', 'dimaksud'),
+(1897, './files/UU_28_2014.PDF', 'pasal'),
+(1898, './files/UU_28_2014.PDF', 'huruf'),
+(1899, './files/UU_28_2014.PDF', 'meliputi'),
+(1900, './files/UU_28_2014.PDF', 'informasi'),
+(1901, './files/UU_28_2014.PDF', 'ciptaan'),
+(1902, './files/UU_28_2014.PDF', 'melekat'),
+(1903, './files/UU_28_2014.PDF', 'elektronik'),
+(1904, './files/UU_28_2014.PDF', '\npengumuman'),
+(1905, './files/UU_28_2014.PDF', 'ciptaan'),
+(1906, './files/UU_28_2014.PDF', 'pencipta'),
+(1907, './files/UU_28_2014.PDF', 'aliasnya'),
+(1908, './files/UU_28_2014.PDF', 'samarannya'),
+(1909, './files/UU_28_2014.PDF', 'pencipta'),
+(1910, './files/UU_28_2014.PDF', 'pemegang'),
+(1911, './files/UU_28_2014.PDF', 'cipta'),
+(1912, './files/UU_28_2014.PDF', 'ciptaan'),
+(1913, './files/UU_28_2014.PDF', 'nomor'),
+(1914, './files/UU_28_2014.PDF', 'dan\nf'),
+(1915, './files/UU_28_2014.PDF', 'kode'),
+(1916, './files/UU_28_2014.PDF', 'informasi'),
+(1917, './files/UU_28_2014.PDF', 'informasi'),
+(1918, './files/UU_28_2014.PDF', 'manajemen'),
+(1919, './files/UU_28_2014.PDF', 'cipta'),
+(1920, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1921, './files/UU_28_2014.PDF', 'dimaksud'),
+(1922, './files/UU_28_2014.PDF', 'ayat'),
+(1923, './files/UU_28_2014.PDF', 'informasi'),
+(1924, './files/UU_28_2014.PDF', 'elektronik'),
+(1925, './files/UU_28_2014.PDF', 'cipta'),
+(1926, './files/UU_28_2014.PDF', '\nsebagaimana'),
+(1927, './files/UU_28_2014.PDF', 'dimaksud'),
+(1928, './files/UU_28_2014.PDF', 'ayat'),
+(1929, './files/UU_28_2014.PDF', 'dimiliki'),
+(1930, './files/UU_28_2014.PDF', 'pencipta'),
+(1931, './files/UU_28_2014.PDF', 'dilarang'),
+(1932, './files/UU_28_2014.PDF', 'dihilangkan'),
+(1933, './files/UU_28_2014.PDF', 'diubah'),
+(1934, './files/UU_28_2014.PDF', 'dirusak'),
+(1935, './files/UU_28_2014.PDF', '\nbagian'),
+(1936, './files/UU_28_2014.PDF', 'ketiga\nhak'),
+(1937, './files/UU_28_2014.PDF', 'ekonomi\nparagraf'),
+(1938, './files/UU_28_2014.PDF', '1\nhak'),
+(1939, './files/UU_28_2014.PDF', 'ekonomi'),
+(1940, './files/UU_28_2014.PDF', 'pencipta'),
+(1941, './files/UU_28_2014.PDF', 'pemegang'),
+(1942, './files/UU_28_2014.PDF', 'cipta\nhak'),
+(1943, './files/UU_28_2014.PDF', 'ekonomi'),
+(1944, './files/UU_28_2014.PDF', 'eksklusif'),
+(1945, './files/UU_28_2014.PDF', 'pencipta'),
+(1946, './files/UU_28_2014.PDF', 'pemegang'),
+(1947, './files/UU_28_2014.PDF', 'cipta'),
+(1948, './files/UU_28_2014.PDF', 'manfaat'),
+(1949, './files/UU_28_2014.PDF', '\nekonomi'),
+(1950, './files/UU_28_2014.PDF', 'ciptaan'),
+(1951, './files/UU_28_2014.PDF', 'pencipta'),
+(1952, './files/UU_28_2014.PDF', 'pemegang'),
+(1953, './files/UU_28_2014.PDF', 'cipta'),
+(1954, './files/UU_28_2014.PDF', 'sebagaimana'),
+(1955, './files/UU_28_2014.PDF', 'dimaksud'),
+(1956, './files/UU_28_2014.PDF', 'pasal'),
+(1957, './files/UU_28_2014.PDF', 'ekonomi'),
+(1958, './files/UU_28_2014.PDF', '\nmelakukan'),
+(1959, './files/UU_28_2014.PDF', 'penerbitan'),
+(1960, './files/UU_28_2014.PDF', 'ciptaan'),
+(1961, './files/UU_28_2014.PDF', 'penggandaan'),
+(1962, './files/UU_28_2014.PDF', 'ciptaan'),
+(1963, './files/UU_28_2014.PDF', 'segala'),
+(1964, './files/UU_28_2014.PDF', 'bentuknya'),
+(1965, './files/UU_28_2014.PDF', '63\nwww'),
+(1966, './files/UU_28_2014.PDF', 'hukumonline'),
+(1967, './files/UU_28_2014.PDF', 'com\nc');
 
 -- --------------------------------------------------------
 
@@ -711,7 +2027,9 @@ CREATE TABLE `upload` (
 --
 
 INSERT INTO `upload` (`id_upload`, `nama_file`, `deskripsi`, `isi`, `tgl_upload`, `hits`) VALUES
-(1, 'UNDANGâ€“UNDANG REPUBLIK INDONESIA NOMOR 30 TAHUN 2014.pdf', 'ADMINISTRASI PEMERINTAHAN ', '', '2018-03-16', 0);
+(1, 'UNDANGâ€“UNDANG REPUBLIK INDONESIA NOMOR 30 TAHUN 2014.pdf', 'ADMINISTRASI PEMERINTAHAN ', '', '2018-03-16', 0),
+(2, 'UU-12-Tahun-2011.pdf', 'PEMBENTUKAN PERATURAN PERUNDANG-UNDANGAN ', '', '2018-03-16', 0),
+(3, 'UU_28_2014.PDF', 'HAK CIPTA', '', '2018-03-16', 0);
 
 --
 -- Indexes for dumped tables
@@ -737,12 +2055,12 @@ ALTER TABLE `upload`
 -- AUTO_INCREMENT for table `dokumen`
 --
 ALTER TABLE `dokumen`
-  MODIFY `dokid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=653;
+  MODIFY `dokid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1968;
 --
 -- AUTO_INCREMENT for table `upload`
 --
 ALTER TABLE `upload`
-  MODIFY `id_upload` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `id_upload` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
