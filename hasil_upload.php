@@ -1,8 +1,8 @@
 <?php
 // Baca lokasi file sementar dan nama file dari form (fupload)
 include('class.pdf2text.php');
-include_once 'IDNstemmer.php';
-//include('Enhanced_CS.php');
+//include_once 'IDNstemmer.php';
+include('Enhanced_CS.php');
 function preproses($teks,$nama_file) { 
   //bersihkan tanda baca, ganti dengan space 
 $teks = str_replace("'", " ", $teks);
@@ -37,7 +37,7 @@ $myArray = explode(" ", $teks); //proses tokenisasi
 
 
 $filteredarray = array_diff($myArray, $astoplist); //remove stopword
-$st = new IDNstemmer();
+//$st = new IDNstemmer();
 $konek = mysqli_connect("localhost","root","","dbstbi");
 
  
@@ -48,7 +48,8 @@ foreach($filteredarray as $filteredarray){
 if (strlen($filteredarray) >=4)
 	  {
 //echo ">>".$filteredarray;
-$hasil=$st->doStemming($filteredarray);
+//$hasil=$st->doStemming($filteredarray);
+      $hasil=Enhanced_CS($filteredarray);
 //$st->doStemming($filteredarray)
 	 //  echo " ".$hasil.'<br>';
  $query = "INSERT INTO dokumen (nama_file, token, tokenstem)
